@@ -19,7 +19,7 @@ Title: A Tale of Two Cities\
        A Story of the French Revolution\
 \
 Author: Charles Dickens\
-\
+\ 
 Release Date: January, 1994 [EBook #98]\
 Posting Date: November 28, 2009\
 Last Updated: March 4, 2018\
