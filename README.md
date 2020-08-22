@@ -1,9 +1,10 @@
 # Algorithms-and-Data-Structures-ID1020
 
-Content and learning outcomes
-Course contents *
+## Content and learning outcomes
 
-Basic analysis
+### Course contents
+
+### Basic analysis
 
 Asymptotic analysis of complexity borders in the worst case and on average.
 To identify differences between behaviours of algorithms in the best case, the worst case, and on average.
@@ -44,7 +45,7 @@ Definitions of the classes P and NP.
 NP-completeness (Cook's theorem).
 Some common NP-complete problems.
 
-Intended learning outcomes *
+## Intended learning outcomes
 
 The aim of the course is to provide a solid knowledge on how to design and analyse the most important classes of algorithms. The course intends to give the students skills that give them the opportunity to design computer program that use time and memory in an efficient way independently. The students should learn to identify problems that are unreasonably demanding in terms of resources or that indeed are impossible to solve with common computing models. At the end of the course the students should be able to develop their own algorithms to solve problems and be able to compare different solutions and how well they function.
 
